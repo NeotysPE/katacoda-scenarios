@@ -1,10 +1,3 @@
-# Interactive Katacoda Scenarios
+# Interactive Katacoda Scenarios from Neotys PE
 
-[![](http://shields.katacoda.com/katacoda/neotys/count.svg)](https://www.katacoda.com/neotys "Get your profile on Katacoda.com")
-
-Visit https://www.katacoda.com/neotys to view the profile and interactive scenarios
-
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
-
-For examples, visit https://github.com/katacoda/scenario-example
+This is the placeholder for NeoLoad Katacoda scenarios.
